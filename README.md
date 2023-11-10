@@ -1,6 +1,6 @@
 ### Olá sou o Júlio Herculano 👋
 
-- 🔭 Hoje trabalho como Auxiliar Adiministrativo (Jovem Aprendiz)
+- 🔭 Atualmente Desenvolvedor Python
 - 🎓 Estou cursando Ciência da Computação💻📚
 - 📫 Entrar em contato pelo e-mail: julioherculanoc3@gmail.com
 
