@@ -8,9 +8,9 @@
 🎓 Estudante de **Ciências da Computação** no 5º período.  
 💻 Apaixonado por tecnologia, programação e aprendizado constante.  
 🌟 Sempre em busca de novos desafios e projetos colaborativos.  
-📚 Interessado em áreas como **desenvolvimento web**, **inteligência artificial** e **computação gráfica**.  
+📚 Interessado em áreas como **desenvolvimento web** e **inteligência artificial**.  
 🎯 Meu objetivo é me tornar um desenvolvedor full-stack e explorar soluções de impacto com a tecnologia.  
-⚡ Fun fact: Além de codar, adoro **jogar videogames** e **aprender sobre astronomia**.
+⚡ Fun fact: Além de codar, adoro **jogar videogames** e **assistir animes**.
 
 ---
 
