@@ -10,7 +10,7 @@
 🌟 Sempre em busca de novos desafios e projetos colaborativos.  
 📚 Interessado em áreas como **desenvolvimento web** e **inteligência artificial**.  
 🎯 Meu objetivo é me tornar um desenvolvedor full-stack e explorar soluções de impacto com a tecnologia.  
-⚡ Fun fact: Além de codar, adoro **jogar videogames** e **assistir animes**.
+⚡ Além de codar, adoro **jogar videogames**, **praticar Karatê** e **assistir animes**.
 
 ---
 
