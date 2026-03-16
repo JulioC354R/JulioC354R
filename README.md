@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-🎓 Estudante de **Ciências da Computação** no 6º período.  
+🎓 Estudante de **Ciências da Computação** no 7º período.  
 💻 Apaixonado por tecnologia, programação e aprendizado constante.  
 🌟 Sempre em busca de novos desafios e projetos colaborativos.  
 📚 Interessado em áreas como **desenvolvimento web** e **inteligência artificial**.  
